@@ -8,3 +8,9 @@ The original source file provide us the data with the following structure:
 
 No | Provider | Brand | Tahun 2013 | Tahun 2014 | Tahun 2015 | Tahun 2016 |
 ---|----------|-------|------------|------------|------------|------------|
+
+We can simplify it in the prepared file  to this following structure:
+No | Provider | Brand | Tahun | Prabayar | Pascabayar | Jumlah |
+---|----------|-------|-------|----------|------------|--------|
+
+With this structure, we can easily filter which row that will be needed to plot
