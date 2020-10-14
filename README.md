@@ -18,3 +18,8 @@ With this structure, we can easily filter which row will be needed for plot
 The first and the most general view that can be extracted by this data is the overall number of the subscriber for each provider by year.
 ![Subscriber Count Each Year](https://github.com/salmanzf/Cellular-Network-Provider-Growth-in-Indonesia/blob/main/Graph_SubscriberCount.png)
 The graph shows that SIMPATI/HALO brand dominate the cellular network for each year. The brand is supported by provider PT. Telkomsel which is the branch of PT. Telkom Indonesia and the largest telecommunication company in Indonesia. Overall, the trends are each brand keep increasing on subscriber count except for AXIS, CERIA, and SMART.
+
+## Type of Service
+There are two types of service provided by provider, which are _Prabayar_ and _Pascabayar_. 
+![Prabayar Percentage](https://github.com/salmanzf/Cellular-Network-Provider-Growth-in-Indonesia/blob/main/Graph_SubscriberPercentage.png)
+It's clear that cellular network provider heavily focused on its _Prabayar_ service because it's easier to monitor especially for the cost so the user can adjust their preferences for the service package. 
